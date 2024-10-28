@@ -22,7 +22,7 @@ This app uses a Retrieval-Augmented Generation (RAG) system AI chatbot to provid
 - Shadcn-UI
 
 ### Setup Steps
-Please see the [rag-backend](./rag-backend) folder and [rag-frontend](./rag-frontend) folder for an in-depth review of the build steps for each part.
+Please see the [rag-app-backend](./rag-app-backend) folder and [rag-app-frontend](./rag-app-frontend) folder for an in-depth review of the build steps for each part.
 
 ### Production
 - AWS Hosted Zones (Route 53 & Amplify)
